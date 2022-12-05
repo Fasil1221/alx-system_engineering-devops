@@ -1,2 +1,8 @@
 #!/bin/bash
+<<<<<<< HEAD
 egrep -V "bin" /etc/ passwd#!/bin/bash
+=======
+egrep -V "bin" /etc/ passwd#!/bin/bash
+
+
+>>>>>>> a844c219b2a2af1ee8159b8cf199e4d9dd90cefa
